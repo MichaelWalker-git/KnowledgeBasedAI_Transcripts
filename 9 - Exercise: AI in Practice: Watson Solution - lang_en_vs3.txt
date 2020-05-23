@@ -1,0 +1,17 @@
+﻿David, what did you write it down?
+
+&gt;&gt; So I said that the four fundamental
+things a Watson must be able to do to
+
+play Jeopardy are first read the clue,
+then search through it's knowledge base,
+
+then actually decide on it's answer, and
+
+then phrase it's answer in
+the form of a question.
+
+&gt;&gt; That's right.
+
+And during this course, we'll
+discuss each part of David's answer.

@@ -1,0 +1,21 @@
+﻿I'm sure you have noticed that this class has a subtitle, cognitive systems.
+
+Let's talk about this term and break it down into its components. Cognitive,
+
+in this context, means dealing with human-like intelligence. The ultimate goal
+
+is to dwell up human level, human-like intelligence. Systems, in this context,
+
+means having multiple interacting components, such as learning, reasoning and
+
+memory. Cognitive systems, they are systems that exhibit human level,
+
+human-like intelligence through interaction among components like learning,
+
+reasoning and memory. Thus, on a spectrum, what we'll discuss in this
+
+class will definitely lie on the right side of the spectrum, on the human side.
+
+We will be talking about thinking and acting, but
+
+we will always be concerned with human cognition.

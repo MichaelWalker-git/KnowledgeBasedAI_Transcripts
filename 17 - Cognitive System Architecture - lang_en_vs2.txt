@@ -1,0 +1,137 @@
+﻿So let us take a look at what is a cognitive system.
+
+Notice that I'm using the term cognitive system and
+
+not the term knowledge-based AI agent. I could have used that term also.
+
+When we talk about knowledge-based AI agent, then we could take two views.
+
+One view is that we are going to build a knowledge-based AI system, which need
+
+not be human like. Another view is that the knowledge based AI agent that
+
+we will build will be human-like. The cognitive system is situated in the world.
+
+Here by the world I mean the physical world. For example, the world that I
+
+am interacting with right now, with this screen in front of me and
+
+this microphone. This world is perceptionate. There's an example, the percept
+
+something being a straight line or a color of some object. Or the smoothness of
+
+some of the texture of some object. This perceptionate around the world and
+
+cognitive system is using sensors to perceive this percept. That's the input of
+
+the cognitive system. The cognitive system also has some actuators. So, for
+
+example, I have fingers that I'm using right now to point to things. And
+
+a cognitive system uses actuators to carry out actions on the world.
+
+Cognitive system then is taking perceptor's input and giving actions as output.
+
+So far, we've talked about a single cognitive system. But of course one can have
+
+multiple cognitive systems. These multiple cognitive systems can interact with
+
+each other. Just like a cognitive system situated in a physical world,
+
+it is also situated in a social world. Let us now zoom into the inside
+
+of a cognitive system. What is the architecture of a cognitive system?
+
+So the cognitive system takes as input certain percepts about the world. It has
+
+a task of giving as output actions of the world. The question then becomes, how
+
+can these percepts be mapped into actions? One way of mapping them is that we
+
+will do a direct mapping. These percepts will be directly mapped into actions.
+
+Let's take an example. Imagine that you're driving a car, and the brake lights
+
+of the car in front of you, become bright red. Should that happen, you will then
+
+press on the brakes of your car. Well, that is an example of a reactive system.
+
+The percepts were that the break lights on the car in front of you became bright
+
+red and the action was that you pressed on your own brakes. In doing so,
+
+you may not have planned. This is now a direct mapping of percept into actions.
+
+Alternatively, consider a slightly different problem.
+
+Again you're driving you're car on the highway, but
+
+as you're trying to drive on the highway your task this time is to change lanes.
+
+Now, in order to change lanes, again you may look around and
+
+look at the percept of the road. There are other cars on the road, for
+
+example, and you need to take some action that will help you change lanes.
+
+This time you may actually deliberate, you may actually look at
+
+the goal that you have as well as the percepts of the environment and
+
+come up with a plan that will tell you what action to take. As we discussed in
+
+the last lesson, the deliberation itself has a number of components in it.
+
+Three of the major components that we'll studying in this class are learning,
+
+reasoning, and memory. These three components interact with each other in
+
+many interesting ways that we will decipher as we go along.
+
+Now, deliberation was reasoning about the world around us. So
+
+if I take that example again of changing lanes, as I'm driving on the highway,
+
+then I'm reasoning about the world around me. Where are the other cars? Should I
+
+change lanes to the left or to the right. Metacognition on the other hand,
+
+the third layer here, has to do with reasoning about the internal mental world.
+
+So metacognition reasons about the deliberation. Or metacognition can
+
+also reason about reaction. Let us take an example of the metacognition also.
+
+Image again that I had to change lanes. And I did,
+
+as I changed lanes to the left, the cars behind me honk because I
+
+did not leave enough space for the car that was already moving on the left lane.
+
+In that case I know that the lane changing did not go very smoothly.
+
+I may now think about my own actions in the world, about the deliberation that
+
+led to those actions, and I may then decide to change or reconfigure, or
+
+repair the deliberation that led to that sub-optimal plan for
+
+changing the lanes. That is an example of metacognition. So now I
+
+have this three layered architecture, reaction, deliberation, metacognition.
+
+Note that we have defined intelligence in a way, intelligence here is
+
+about mapping percepts in the world, interactions in the world. Intelligence is
+
+about selecting the right kind of action given a particular state of the world.
+
+But there are many different ways in which we can map the percepts into actions.
+
+Purely reactive, deliberative, or
+
+also entailing metacognition on the deliberation and the reaction. This then is
+
+the overall architecture of the cognitive system. This is called a three layered
+
+architecture. We'll be returning to this architecture many times in this course.

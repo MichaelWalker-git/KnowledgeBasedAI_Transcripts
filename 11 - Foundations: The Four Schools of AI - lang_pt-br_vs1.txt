@@ -1,0 +1,144 @@
+﻿Outra maneira de entender
+o que é IA baseada em conhecimento
+
+é contrastar com outras escolas
+de pensamento sobre IA.
+
+Nós podemos pensar
+como um espectro.
+
+Em um lado do espectro,
+está a ação.
+
+Do outro lado do espectro
+está o pensamento.
+
+Por exemplo, quando você está dirigindo
+você está atuando no mundo.
+
+Mas quando você está planejando a rota,
+você está pensando no mundo.
+
+Existe uma segunda dimensão
+
+para distinguirmos diferentes
+escolas de pensamento sobre IA.
+
+De um lado do espectro
+podemos pensar em agentes otimizados de IA.
+
+Do outro lado, agentes que atuam
+e pensam como humanos.
+
+Humanos são multifuncionais,
+eles tem uma inteligência robusta.
+
+A inteligência não precisa ser otimizada
+em relação a uma tarefa,
+
+o seu propósito geral é que funciona
+para diversos tipos de tarefas.
+
+Agentes, por outro lado,
+são otimizados para uma tarefa.
+
+Com esses dois eixos,
+formamos 4 quadrantes.
+
+Começando do topo esquerdo
+e indo em sentindo horário,
+
+aqui estão os agentes
+que pensam de forma otimizada,
+
+agentes que agem de forma otimizada,
+agentes que agem como humanos
+
+e agentes que pensam
+como humanos.
+
+Nesse curso
+de IA baseada em conhecimento,
+
+estamos interessados em agentes
+que pensam como humanos.
+
+Vamos pegar alguns exemplos
+para ter certeza
+
+que entendemos
+esses 4 quadrantes.
+
+Aqui estão conhecidas
+técnicas computacionais.
+
+Considere muitos algoritmos
+de aprendizado de maquina.
+
+Esses algoritmos analisam
+grandes quantidades de dados
+
+e determinam padrões
+na regularidade desses dados.
+
+Eu acho que eles pertencem
+ao topo esquerdo do quadrante.
+
+Eles estão pensando
+e normalmente são otimizados,
+
+mas não necessariamente
+como os humanos.
+
+Piloto automático
+de aviões.
+
+Eles atuam de forma otimizada.
+
+Eles atuam no mundo e você
+quer que funcionem de forma otimizada.
+
+Robôs de improvisação que podem
+dançar a música que você colocar.
+
+Eles estão atuando, se comportando
+como humanos, dançando.
+
+Web semântica, uma nova geração
+de tecnologias
+
+em que a internet entende páginas
+e informa o conteúdo.
+
+Eu posso colocar elas
+como pensando como humanos.
+
+Elas estão pensando.
+Não estão atuando no mundo.
+
+É muito mais parecida com os humanos
+do que, digamos,
+
+outras tecnologias computacionais
+que estão aqui.
+
+Se você está interessado
+em ler mais sobre esses projetos,
+
+você pode olhar
+os materiais do curso,
+
+onde fornecemos artigos recentes
+sobre diferentes tecnologias computacionais.
+
+Existem muitas pesquisas de ponta
+acontecendo aqui na Georgia Tech
+
+e em outros lugares,
+sobre essas diferentes tecnologias.
+
+E se você estiver
+realmente interessado,
+
+essa é uma área que estamos sempre
+procurando contribuição.

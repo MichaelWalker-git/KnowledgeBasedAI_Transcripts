@@ -1,0 +1,13 @@
+﻿Agora que já falamos das características
+de agentes de IA em problemas de IA.
+
+Vamos falar sobre para que tipo
+de problemas criamos um agente de IA.
+
+À direita temos várias tarefas.
+Quais são problemas de IA?
+
+Em outras palavras,
+
+para quais desses problemas
+você criaria um agente de IA para resolver?

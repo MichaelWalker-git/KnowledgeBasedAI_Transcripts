@@ -1,0 +1,138 @@
+﻿Vamos olhar pro processo que Watson
+deve estar usando um pouco mais de perto.
+
+É claro que Watson
+está fazendo várias coisas.
+
+Ele está tentando entender
+frases em linguagem normal.
+
+Ele está tentando formar frases
+em linguagem normal.
+
+Ele está tomando
+algumas decisões.
+
+Eu vou juntar essas coisas
+no grupo "raciocínio".
+
+Raciocínio é um processo fundamental
+do conhecimento baseado em dados.
+
+Aprendizagem também é
+um processo fundamental
+
+da IA baseada
+em conhecimento.
+
+O que é aprendizagem?
+
+Ele pode acertar algumas perguntas
+e armazenar essa resposta em algum lugar.
+
+Se ele errar uma pergunta,
+
+assim que ele aprende a resposta certa,
+armazena essa resposta em algum lugar.
+
+Aprendizagem é um processo fundamental
+da IA baseada em conhecimento.
+
+A memória é o 3º processo fundamental
+da IA baseada em conhecimento.
+
+Se você vai
+aprender alguma coisa,
+
+esse conhecimento precisa ser armazenado
+em algum lugar, a memória.
+
+Se você vai raciocinar usando conhecimento,
+esse conhecimento precisa
+
+ser acessado de algum lugar,
+a memória.
+
+A memória vai armazenar
+o que aprendemos e nos dar acesso
+
+ao conhecimento que precisamos
+para raciocinar.
+
+Essas 3 formas de processos,
+aprendizagem, memória e raciocínio
+
+são intimamente ligadas.
+
+Nós aprendemos para raciocinar.
+
+O resultado do raciocínio normalmente
+resulta em um novo aprendizado.
+
+Uma vez que aprendemos,
+armazenamos na memória.
+
+Mas nós precisamos de conhecimento
+para aprender.
+
+Quanto mais você sabe,
+mais você pode aprender.
+
+Raciocínio precisa do conhecimento
+que a memória nos dá acesso.
+
+O resultado do raciocínio
+também pode ir para a memória.
+
+Esses são 3 processos
+intimamente relacionados.
+
+Um aspecto chave desse curso
+de IA baseada em conhecimento
+
+é falar sobre teorias
+da IA baseada em conhecimento
+
+que unifiquem raciocínio,
+aprendizagem e memória.
+
+Discutir qualquer um
+desses 3 separadamente
+
+acontece
+em algumas escolas de IA.
+
+Mas nós vamos tentar construir
+e unificar esse conceito.
+
+Eu vou chamar esses 3 processos juntos
+de deliberação.
+
+O processo de deliberação
+é uma parte da estrutura geral
+
+do agente da IA baseada
+em conhecimento.
+
+Essa figura ilustra a estrutura antiga
+de um agente de IA.
+
+Aqui nós temos entrada
+em forma de percepções do mundo.
+
+E saída em forma
+de ações no mundo.
+
+O agente pode ter
+um grande número de processos
+
+que mapeiam
+essas percepções de ação.
+
+Nós vamos nos focar agora
+em deliberação,
+
+mas o agente da estrutura
+também inclui metacognição e reação,
+
+que serão discutidas mais tarde.

@@ -1,0 +1,98 @@
+﻿What do you think about this David?
+
+&gt;&gt; So starting with Roomba,
+I would put Roomba in the bottom left.
+
+It definitely acts in the world.
+
+But it definitely doesn't act like I do.
+
+It crisscrosses across the floor
+until it vacuums everything up.
+
+So we're going to say
+that's acting optimally.
+
+C-3PO is fluent in over 6
+million forms of communication.
+
+And that means that it interacts with
+human and other species very often.
+
+In order to do that, it has to
+understand natural sentences and
+
+put its own knowledge back
+into natural sentences.
+
+So, it has to act like humans.
+
+Apple's virtual assistant,
+Siri, doesn't act in the world.
+
+So she is more on the thinking
+end of the spectrum but,
+
+like C-3PO,
+she has to interact with humans.
+
+She has to read human sentences and
+
+she has to put her own responses
+back into normal vernacular.
+
+So we're going to say that
+she thinks like humans.
+
+Google Maps plots your route from
+your origin to your destination.
+
+So it's definitely doing thinking,
+it's not doing any acting in the world.
+
+But we don't really care if it does
+the route planning like we would do it.
+
+So we would say it does its
+route planning optimally.
+
+It takes into consideration traffic.
+
+Current construction,
+different things like that,
+
+where we would probably think of
+the routes we have taken in the past.
+
+So Google Maps thinks optimally.
+
+&gt;&gt; That is a good answer David,
+I agree with you, but not here that
+
+some aspects of Siri, may well belong
+in some of the other quadrants.
+
+So, putting under 3 sounds plausible.
+
+But Siri might also be viewed as,
+
+perhaps, acting when it
+gives you a response.
+
+Siri, some aspects of Siri might also be
+optimal, not necessarily like humans.
+
+&gt;&gt; So if you'd like to discuss where
+these technologies belong on these
+
+spectrums or, perhaps, discuss where
+some other AI technologies that you're
+
+familiar with belong on these spectrums,
+feel free to head on over to our forums
+
+where you can bring up your own
+technologies and discuss the different.
+
+Ways in which they fit into
+the broader school of AI.

@@ -1,0 +1,21 @@
+﻿Uma das coisas com que os alunos desse curso
+provavelmente estão familiarizados
+
+é a aula robótica de Sebastian Thrun
+sobre veículos autônomos.
+
+David, onde você acha que veículos autônomos
+se encaixariam no espectro?
+
+Para mim, veículos autônomos
+se movem no mundo, então atuam no mundo.
+
+E dirigir é um comportamento
+bem humano,
+
+então eu diria
+que ele age como humano.
+
+O que você acha?
+
+Você concorda com o David?

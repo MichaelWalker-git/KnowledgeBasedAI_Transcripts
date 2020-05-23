@@ -1,0 +1,60 @@
+﻿Hello, and welcome to CS 7637,
+
+knowledge-based artificial
+intelligence/cognitive systems.
+
+My name is Ashok Goel.
+
+&gt;&gt; My name is David Joyner.
+
+&gt;&gt; I'm a Professor of Computer Science
+and Cognitive Science at Georgia Tech.
+
+I've been teaching knowledge-based
+AI for about 25 years.
+
+I've been doing research
+in this area for about 30.
+
+My personal passion is for
+computational creatively.
+
+Breathing air agents that human like and
+creative in their own right.
+
+&gt;&gt; I'm, of course,
+developer with Udacity and
+
+I'm also finishing up my own PhD
+dissertation here at Georgia Tech
+
+with Ashok as my advisor.
+
+My personal passion is for education and
+especially for using modern technology
+
+to deliver individualized
+personal educational experiences.
+
+It would be very difficult
+in very large classrooms.
+
+As we'll see AI is not just
+the subject of this course, but
+
+it's all a tool we're using
+to teach this course.
+
+&gt;&gt; We had a lot of fun
+putting this course together.
+
+We hope you enjoy it as well.
+
+We think of this course
+as an experiment as well.
+
+We want to understand how students
+learn in online classrooms.
+
+So if you have any feedback
+please share it with us.

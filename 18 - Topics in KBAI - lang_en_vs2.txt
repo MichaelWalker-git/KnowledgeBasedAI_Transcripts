@@ -1,0 +1,143 @@
+﻿We have organized the materials in this course, into eight major units,
+
+this chart illustrates those eight units. So starting from the top left,
+
+the first unit has to do with Fundamentals of presentation and recent, Panning,
+
+Common Sense Reasoning. Analogical Reasoning, Metacognition that we just talked
+
+a little about, Design &amp; Creativity, Visuospatial Reasoning, and Learning.
+
+Now let's look at each of these circles, one at a time. So in the first part,
+
+dealing with the Fundamentals of this course. We'll be dealing with certain,
+
+knowledge representations, and reasoning strategies. Two of the major
+
+knowledge representations that we'll discuss in the first part of this course,
+
+are called Semantic Networks, and Production Systems. Three of
+
+the reasoning strategies, are called Generate and Test, Means-End Analysis, and
+
+Problem Reduction. Note that, the arrows here imply an ordering.
+
+There is an ordering. In that, when we are discussing our Production Systems,
+
+we might allude to things that we are discussing in the Semantic Networks.
+
+Similarly, when we discuss Means-End Analysis, we might allude to things that we
+
+are discussing in Generate and Test. However. It is important to note also,
+
+that these three methods are completely independent from each other.
+
+It's just that we are going to discuss them, in the order shown here.
+
+Similarly these two knowledge representations, are independent from each other.
+
+It's simply that in this course, we'll discuss them in this order.
+
+So the second major unit in this course. Pertains to Planning. Planning is
+
+kind of problem solving activity whose goal is to come up with plans, for
+
+achieving one or more goals. Before we discuss Planning, we'll
+
+discuss Logic as a knowledge representation. This knowledge representation,
+
+will then enable us to discuss Planning in a systematic way. The third
+
+major unit in this course is common sense reasoning. Common Sense Reasoning,
+
+pertains to reasoning about every day situations in the world. As an example,
+
+I may give you the input, John gave the book to Mary. Note the input,
+
+does not specify who has the book at the end. But, you can draw that
+
+inference easily. That is an example of Common Sense Reasoning. In our course,
+
+we'll discuss both knowledge representations like frames, as well as methods for
+
+doing Common Sense Reasoning. As we discussed earlier,
+
+when we were talking about the architecture of a cognitive system,
+
+Learning is a fundamental process within deliberation. And therefore, we will be
+
+visiting the issue of Learning many, many times throughout this course. However,
+
+we also have a unit on Learning, which has several topics in it. There are other
+
+topics in Learning, that do not show up in this particular. Circle here but
+
+are distributed throughout the course. Another major unit in our course is
+
+Analogical Reasoning. Analogical Reasoning is, reasoning about novel problems or
+
+novel situations, but, analogic to what we know about familiar problems, or
+
+familiar situations. As I mentioned earlier, Learning is distributed throughout
+
+this course. Therefore Learning comes here in Analogical Reasoning also. In fact
+
+Learning by recording cases appeared in the Learning topic as well as here, and
+
+you can see explanation based Learning occurring here. Visuospatial Reasoning is
+
+another major unit in our course. Visuospatial Reasoning pertains to
+
+reasoning with visual knowledge. As an example, I might draw a diagram and
+
+reason with the diagram. That's an example of Visualspatial Reasoning.
+
+In the context of Visualspatial Reasoning, we're talking both about
+
+Constraint Propagation, and using that to do Visualspatial Reasoning. Design
+
+&amp; Creativity is the next topic in our course. We want to build AI systems,
+
+that can deal with novel situations, and come up with creative solutions.
+
+Design is an example of a complex task which can be very, very creative,
+
+where we are discussing a range of topics in the context of Design &amp; Creativity.
+
+So in the next topic in our courses Metacognition,
+
+we have already come across a notion in Metacognition,
+
+when we were talking about the architecture of the cognize system. Metacognition
+
+pertains to thinking about thinking. And we'll discuss a range of topics and
+
+then, we will end the course by talking about Ethics in Artificial Intelligence.
+
+This figure illustrates all the eight major units once again, as well as
+
+the topics within each major unit. I hope this will give you mental map
+
+of the organization of the course as a whole. In preparing this course, we came
+
+up with a ordering of the topics, which will interleave many of these topics. So
+
+we will not do the entire first unit, before we go to the entire second unit and
+
+so on. Instead, we will do some parts of first unit, then go to
+
+some other part that follows conceptually from it, and so there will be
+
+some interleaving among these topics. And one aspect of the personalization is,
+
+that you are welcome to go through these topics in your own chosen order.
+
+You don't have to stay, with the kind of order that we'll be using.
+
+This is an exciting agenda. I hope you are as excited as I am.
+
+There are very few, opportunities where we can talk about exotic topics,
+
+like Analogical Reasoning, and Creativity, and Metacognition. And,
+
+in this particular course, we'll talk about all of them together.

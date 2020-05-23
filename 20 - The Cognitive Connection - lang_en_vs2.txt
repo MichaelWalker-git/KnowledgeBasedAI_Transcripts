@@ -1,0 +1,13 @@
+﻿At the conclusion of this lesson, we'll have a short video after the wrap up
+
+called the cognitive connection. Knowledge based AI is richly connected to
+
+cognitive signs. And so many of the topics that we'll cover in
+
+this class are connected to human reasoning and human learning, and
+
+human memory. The cognitive connections are not separate from the course. One of
+
+the goals of this course is to learn how to use the design of AI agents to
+
+reflect on human cognition. The cognitive connections will serve this purpose.

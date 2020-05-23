@@ -1,0 +1,67 @@
+﻿Let's start with looking at
+an example of an AI agent in action.
+
+Many are you are family with Watson,
+the IBM program that plays Jeopardy.
+
+Some of you may not be, and that's fine,
+we'll show an example in a minute.
+
+When you watch Watson in action,
+try to think.
+
+What are some of the things
+Watson must know about?
+
+What are some of the things that Watson
+must be able to reason about in order
+
+to play Jeopardy?
+
+Write them down.
+
+And anytime you feel the pain,
+hey, this guy refrain.
+
+Don't carry the world
+upon your shoulders.
+
+Watson?
+
+&gt;&gt; Who is, Jude?
+
+&gt;&gt; Yes.
+
+&gt;&gt; Olympic Oddities, for 200.
+
+&gt;&gt; Milorad Cavic almost upset
+this man's perfect 2008 Olympics,
+
+losing to him by
+one-hundredth of a second.
+
+Watson.
+
+&gt;&gt; Who is Michael Phelps.
+
+&gt;&gt; Yes, go.
+
+&gt;&gt; Name the decade for 200.
+
+&gt;&gt; Disneyland opens and
+the peace symbol is create.
+
+&gt;&gt; Ken.
+&gt;&gt; What are the 50s?
+
+&gt;&gt; Yes.
+&gt;&gt; Final Frontiers for 1,000, Alex.
+
+&gt;&gt; Tickets aren't needed for this event,
+
+a black hole's boundary from
+which matter can not escape.
+
+Watson.
+
+&gt;&gt; What is event horizon?

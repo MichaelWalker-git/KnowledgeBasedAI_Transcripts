@@ -1,0 +1,31 @@
+﻿David, qual desses você acha
+que são problemas de IA?
+
+Eu disse que todos esses
+são problemas de IA.
+
+Todas essas são coisas que os humanos
+fazem regularmente.
+
+E se o objetivo
+da inteligência artificial é
+
+recriar a inteligência humana,
+então parece que teremos que conseguir
+
+desenvolver agentes
+que possam fazer essas coisas.
+
+Concordo.
+
+Na verdade,
+nós vamos desenvolver agentes IA
+
+que podem resolver
+esses problemas.
+
+Por enquanto,
+vamos nos focar no primeiro.
+
+Como desenvolver um agente IA
+que pode responder perguntas de Jeopardy?

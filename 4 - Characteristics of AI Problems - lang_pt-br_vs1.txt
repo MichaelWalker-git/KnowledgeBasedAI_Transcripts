@@ -1,0 +1,44 @@
+﻿Espero que a discussão sobre problemas de IA
+não tenha te assustado.
+
+Vamos trazer a discussão
+para mais perto do trabalho
+
+e falar sobre as características fundamentais
+dos problemas de IA.
+
+Primeiro, em muitos problemas de IA,
+os dados chegam ao serem desenvolvidos.
+
+Nem todos os dados chegam
+no começo.
+
+Segundo, problemas regularmente
+tem padrões recorrentes.
+
+Os mesmos problemas
+ocorrerem várias vezes.
+
+Terceiro, os problemas ocorrem
+em diversos níveis de abstrações.
+
+Quarto, muitos problemas interessantes
+não são intratáveis por computador.
+
+Quinto, o mundo é dinâmico,
+está sempre mudando,
+
+mas o conhecimento do mundo
+é relativamente estático.
+
+Sexto, o mundo é aberto,
+mas o conhecimento do mundo é limitado.
+
+A questão se torna, como criamos
+agentes aéreos
+
+que podem resolver problemas
+com essas características?
+
+Esses são os desafios
+que discutiremos nesse curso.

@@ -1,0 +1,81 @@
+﻿Vamos começar
+um reconhecimento hoje.
+
+Estamos discutindo
+os maiores problemas de IA.
+
+É claro que não vamos resolver
+todos eles hoje,
+
+mas é bom começar
+com uma ideia geral.
+
+IA tem vários enigmas.
+Vou falar sobre os 5 principais hoje.
+
+Enigma número 1.
+
+Todos os agentes inteligentes tem poucos
+recursos computacionais,
+
+velocidade de processamento,
+memória e por aí vai.
+
+Mas os problemas mais interessantes de IA
+são computacionalmente intratáveis.
+
+Como podemos fazer
+com que um agente de IA
+
+tenha desempenho em tempo real
+em vários problemas interessantes?
+
+Enigma número 2.
+
+Todas as competições são locais,
+mas a maioria dos problemas são globais.
+
+Como podemos fazer com que agentes de IA
+resolvam problemas globais
+
+usando apenas
+computação local?
+
+Enigma número 3.
+
+Lógica computacional
+é fundamentalmente dedutiva,
+
+mas muitos problemas de IA
+são abdutivos ou indutivos.
+
+Como podemos fazer com que agentes de IA
+resolvam problemas abdutivos ou indutivos?
+
+Se você não entender algum desses termos,
+como abdutivo, não se preocupe,
+
+vamos falar sobre isso
+mais tarde.
+
+Enigma número 4.
+
+O mundo é dinâmico,
+o conhecimento é limitado,
+
+mas um agente de IA
+deve sempre começar com o que ele já sabe.
+
+Como um agente de IA pode resolver
+um novo problema?
+
+Enigma número 5.
+
+Resolução de problemas, raciocínio
+e aprendizagem já são complexos,
+
+mas explicação e justificação
+aumentam a complexidade.
+
+Como podemos fazer com que um agente de IA
+explique ou justifique sua escolha?

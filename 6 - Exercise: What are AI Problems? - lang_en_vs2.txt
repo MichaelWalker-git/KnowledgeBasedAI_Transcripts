@@ -1,0 +1,7 @@
+﻿Now that we have talked about the characteristics of AI, agents in AI problems.
+
+Let us talk a little about for what kind of problems might you build in AI
+
+agent. On the right are several tasks. Which are these AI problems? Or to put it
+
+differently, for which of these problems would you build an AI agent to solve?

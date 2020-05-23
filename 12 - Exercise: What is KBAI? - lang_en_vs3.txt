@@ -1,0 +1,23 @@
+﻿So one thing that many students in this
+class are probably familiar with is
+
+Sebastian Thrun's Robotics
+class on autonomous vehicles.
+
+David, where do you think an autonomous
+vehicle would fall on the spectrum?
+
+&gt;&gt; So it seems to me like an autonomous
+vehicle definitely moves around in
+
+the world so
+it certainly acts in the world.
+
+And driving is a very
+human-like behavior so
+
+I'd say that it acts like a human.
+
+&gt;&gt; What do you think?
+
+Do you agree with David?

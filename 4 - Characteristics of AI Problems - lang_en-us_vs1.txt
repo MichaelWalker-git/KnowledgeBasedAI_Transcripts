@@ -1,0 +1,25 @@
+﻿I hope our discussion of the big problems in AI didn't scare you off,
+
+let's bring the discussion down, closer to work.
+
+And talk about a few fundamental characteristics of AI problems. Number one,
+
+in many AI problems, data arrives incrementally not all the data comes
+
+right at the beginning. Number two, problems often have a recurring pattern,
+
+the same kinds of problems occur again and again. Number three,
+
+problems occur at many different levels of abstraction. Problem number four,
+
+many interesting AI problems are computationally intractable. Number five,
+
+the world is dynamic, it's constantly changing but knowledge of
+
+the world is relative to static. Number six, the world is open ended but
+
+knowledge of the world is relatively limited. So, the question then becomes,
+
+how can we design AI agents that can address AI problems with
+
+these characteristics, those are the challenges we'll discuss in this course

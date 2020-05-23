@@ -1,0 +1,69 @@
+﻿Vamos olhar exemplos
+de agentes de IA em ação.
+
+Muitos de vocês conhecem o Watson,
+o programa da IBM que joga Jeopardy.
+
+Não tem problema se você não conhece.
+Eu vou mostrar um exemplo.
+
+Quando observar Watson em ação,
+tente pensar:
+
+Quais são as coisas
+que o Watson precisa saber?
+
+Quais são as coisas que o Watson
+precisa entender para jogar Jeopardy?
+
+Escreva.
+
+“Quando você sente dor,
+ele cara te ajuda.
+
+Não carregue o peso do mundo
+nos ombros.”
+
+-Watson?
+-Quem é Jude?
+
+Sim.
+
+Singularidades Olímpicas,
+por 200 pontos.
+
+“Milorad Cavic quase destruiu
+a perfeita Olimpíada de 2008 de um homem,
+
+ao perder para ele
+por um centésimo de segundo.”
+
+Watson.
+
+Quem é Michael Phelps?
+
+Sim, vamos.
+
+Diga a década
+por 200 pontos.
+
+“Disneylândia abre
+e o símbolo da paz é criado.”
+
+Ken.
+
+-O que são os anos 1950?
+-Sim.
+
+Fronteiras Finais por mil pontos,
+Alex.
+
+“Ingressos não são necessários
+para esse evento,
+
+uma fronteira do buraco negro
+da qual matérias não podem escapar.”
+
+Watson.
+
+O que é horizonte de eventos?

@@ -1,0 +1,19 @@
+﻿In addition to AI problems having several characteristics,
+
+AI agents too have several properties. Property number one. AI agents,
+
+have only a limited computing power, processing speed, memory size, and
+
+so on. Property number two. AI agents have limited sensors,
+
+they cannot perceive everything in the world. Property number three.
+
+AI agents have limited attention, they cannot focus on everything at the same
+
+time. Property number four. Computational logic is fundamentally deductive.
+
+Property number five. The world is large, but AI agents' knowledge of the world
+
+is incomplete relative to the world. So, the question then becomes, how can AI
+
+agents with such bounded rationality address open-ended problems in the world?
